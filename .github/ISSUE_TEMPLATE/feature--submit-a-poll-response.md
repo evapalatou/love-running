@@ -1,5 +1,5 @@
 ---
-name: User story challenge
+name: 'Feature: Submit a Poll Response'
 about: This is our default user story challenge template
 title: ''
 labels: ''
